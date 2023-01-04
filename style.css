@@ -1,0 +1,123 @@
+*{
+    background-color: black;
+    color: white;
+}
+.body{
+    padding-left: 15%;
+}
+img{
+    padding-left: 35%;
+}
+.container h1{
+    text-align: center;
+}
+.container p{
+    text-align: center;
+    color: gray;
+}
+button{
+    background-color: blue;
+    border-color: gray;
+    font-size: 100%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.form input{
+    font-size: 105%;
+    padding-right: 250px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+select{
+    font-size: 100%;
+    padding-right: 300px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.information input{
+    font-size: 100%;
+    padding-right: 722px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.dobgen input{
+    font-size: 100%;
+    padding-right: 345px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.dobgen select{
+    font-size: 100%;
+    padding-right: 335px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.course select{
+    font-size: 100%;
+    padding-right: 222px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.form label{
+    padding-right: 300px;
+    font-size: 120%;
+}
+label{
+    padding-right: 300px;
+    font-size: 120%;
+}
+.information select{
+    font-size: 100%;
+    padding-right: 775px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.laptop select{
+    font-size: 100%;
+    padding-right: 722px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.button button{
+    padding-left: 415px;
+    padding-right: 415px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+.download input{
+    font-size: 105%;
+    padding-right: 250px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.downloadbody{
+    padding-left: 33%;
+}
+.downloadbutton button{
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+.result input{
+    font-size: 105%;
+    padding-right: 250px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.resultbody{
+    padding-left: 33%;
+}
+.resultbutton button{
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+.merdge {
+    display: flex;
+    list-style-type: none;
+}
